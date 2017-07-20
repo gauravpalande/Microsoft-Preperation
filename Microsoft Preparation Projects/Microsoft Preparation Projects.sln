@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012Sort", "012Sort\012Sort.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Key Pair", "Key Pair\Key Pair.csproj", "{93288E0A-FA9C-464F-A471-347492768B9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kadane's Algorithm", "Kadane's Algorithm\Kadane's Algorithm.csproj", "{EB0DAECF-8161-4B69-B077-4B22C5A6997B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{93288E0A-FA9C-464F-A471-347492768B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93288E0A-FA9C-464F-A471-347492768B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93288E0A-FA9C-464F-A471-347492768B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB0DAECF-8161-4B69-B077-4B22C5A6997B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0DAECF-8161-4B69-B077-4B22C5A6997B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0DAECF-8161-4B69-B077-4B22C5A6997B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0DAECF-8161-4B69-B077-4B22C5A6997B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
