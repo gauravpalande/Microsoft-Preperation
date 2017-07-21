@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kadane's Algorithm", "Kadan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KLargestOrSmallestElements", "KLargestOrSmallestElements\KLargestOrSmallestElements.csproj", "{B88881BA-1863-4215-B86D-044CCCF4CA92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingNumberInArray", "MissingNumberInArray\MissingNumberInArray.csproj", "{E4D979FB-5D2A-4C45-BECA-BB8EA9CC1528}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B88881BA-1863-4215-B86D-044CCCF4CA92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B88881BA-1863-4215-B86D-044CCCF4CA92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B88881BA-1863-4215-B86D-044CCCF4CA92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4D979FB-5D2A-4C45-BECA-BB8EA9CC1528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D979FB-5D2A-4C45-BECA-BB8EA9CC1528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D979FB-5D2A-4C45-BECA-BB8EA9CC1528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D979FB-5D2A-4C45-BECA-BB8EA9CC1528}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
