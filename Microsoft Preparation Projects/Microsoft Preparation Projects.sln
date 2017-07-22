@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingNumberInArray", "Mis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfCarries", "NumberOfCarries\NumberOfCarries.csproj", "{8C629B4B-8D4B-4153-BDB1-C13092B4DD74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3Factors", "3Factors\3Factors.csproj", "{223980CF-732F-4379-978B-2FB07B7D0B98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{8C629B4B-8D4B-4153-BDB1-C13092B4DD74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C629B4B-8D4B-4153-BDB1-C13092B4DD74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C629B4B-8D4B-4153-BDB1-C13092B4DD74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{223980CF-732F-4379-978B-2FB07B7D0B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223980CF-732F-4379-978B-2FB07B7D0B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223980CF-732F-4379-978B-2FB07B7D0B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223980CF-732F-4379-978B-2FB07B7D0B98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
