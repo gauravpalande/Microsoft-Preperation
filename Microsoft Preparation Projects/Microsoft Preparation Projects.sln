@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialSorts", "PartialSort
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchinaRotatedArray", "SearchinaRotatedArray\SearchinaRotatedArray.csproj", "{5BD6FDC4-02F5-4967-8C54-F2F930487854}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryRepresentationOfAGivenNumber", "BinaryRepresentationOfAGivenNumber\BinaryRepresentationOfAGivenNumber.csproj", "{F5C26795-8563-4FC6-995A-891A81A2B666}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{5BD6FDC4-02F5-4967-8C54-F2F930487854}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BD6FDC4-02F5-4967-8C54-F2F930487854}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BD6FDC4-02F5-4967-8C54-F2F930487854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5C26795-8563-4FC6-995A-891A81A2B666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5C26795-8563-4FC6-995A-891A81A2B666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5C26795-8563-4FC6-995A-891A81A2B666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5C26795-8563-4FC6-995A-891A81A2B666}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
