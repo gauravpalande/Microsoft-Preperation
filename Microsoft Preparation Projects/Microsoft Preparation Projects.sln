@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchinaRotatedArray", "Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryRepresentationOfAGivenNumber", "BinaryRepresentationOfAGivenNumber\BinaryRepresentationOfAGivenNumber.csproj", "{F5C26795-8563-4FC6-995A-891A81A2B666}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckForBST", "CheckForBST\CheckForBST.csproj", "{1356FF68-9A1C-4681-9F91-AD9A76B3EC2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{F5C26795-8563-4FC6-995A-891A81A2B666}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5C26795-8563-4FC6-995A-891A81A2B666}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5C26795-8563-4FC6-995A-891A81A2B666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1356FF68-9A1C-4681-9F91-AD9A76B3EC2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1356FF68-9A1C-4681-9F91-AD9A76B3EC2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1356FF68-9A1C-4681-9F91-AD9A76B3EC2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1356FF68-9A1C-4681-9F91-AD9A76B3EC2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
