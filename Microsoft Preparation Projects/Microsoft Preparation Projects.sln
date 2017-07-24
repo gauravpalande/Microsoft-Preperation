@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseALinkedList", "Rever
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MirrorBinaryTree", "MirrorBinaryTree\MirrorBinaryTree.csproj", "{7E90F096-35EE-4C04-9911-94188A954C5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveEveryKthNode", "RemoveEveryKthNode\RemoveEveryKthNode.csproj", "{84C28339-56D0-45D6-8441-820AB39544CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{7E90F096-35EE-4C04-9911-94188A954C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E90F096-35EE-4C04-9911-94188A954C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E90F096-35EE-4C04-9911-94188A954C5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84C28339-56D0-45D6-8441-820AB39544CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84C28339-56D0-45D6-8441-820AB39544CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84C28339-56D0-45D6-8441-820AB39544CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84C28339-56D0-45D6-8441-820AB39544CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
