@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListMiddle", "LinkedL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max1Array", "Max1Array\Max1Array.csproj", "{F25CEFC9-86EC-49FA-835E-80B1AA97FDAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RootToLeafPathSum", "RootToLeafPathSum\RootToLeafPathSum.csproj", "{66F73589-68FC-461C-A461-40B773132E7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{F25CEFC9-86EC-49FA-835E-80B1AA97FDAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F25CEFC9-86EC-49FA-835E-80B1AA97FDAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F25CEFC9-86EC-49FA-835E-80B1AA97FDAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66F73589-68FC-461C-A461-40B773132E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F73589-68FC-461C-A461-40B773132E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F73589-68FC-461C-A461-40B773132E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F73589-68FC-461C-A461-40B773132E7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
